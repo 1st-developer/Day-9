@@ -5,6 +5,10 @@
     font-family: sans-serif;
 }
 
+html {
+    scroll-behavior: smooth;
+}
+
 .body {
     width: 100%;
     display: flex;
